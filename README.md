@@ -12,3 +12,6 @@
          history_method，实现历史记录的存储功能，用xml文件存储
          
          history_widget，历史记录ui，读取xml文件的历史记录
+
+         ![image](public/image/calculatorWidget.png)
+         ![image](public/image/historyWidget.png)

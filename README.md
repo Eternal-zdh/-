@@ -13,5 +13,5 @@
          
          history_widget，历史记录ui，读取xml文件的历史记录
 
-         ![image](public/image/calculatorWidget.png)
-         ![image](public/image/historyWidget.png)
+![image](public/image/calculatorWidget.png)
+![image](public/image/historyWidget.png)
